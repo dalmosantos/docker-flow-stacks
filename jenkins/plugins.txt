@@ -37,6 +37,7 @@ jsch
 junit
 kubernetes
 ldap
+locale
 lockable-resources
 mailer
 mapdb-api
