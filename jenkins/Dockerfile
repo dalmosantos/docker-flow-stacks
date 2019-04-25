@@ -1,4 +1,4 @@
-FROM jenkinsci/jenkins:lts-slim
+FROM jenkins/jenkins:lts-slim
 
 ENV SECRETS_DIR=/run/secrets
 # Whether to skip setup wizard
