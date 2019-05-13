@@ -2,7 +2,7 @@
 ace-editor
 ant
 antisamy-markup-formatter
-apache-httpcomponents-client--api-
+apache-httpcomponents-client-4-api
 authentication-tokens
 blueocean
 bouncycastle-api
@@ -29,7 +29,7 @@ greenballs
 groovy
 handlebars
 icon-shim
-jackson-api
+jackson2-api
 javadoc
 jdk-tool
 jquery-detached
@@ -46,7 +46,7 @@ matrix-project
 maven-plugin
 metrics
 momentjs
-openidjava
+openid4java
 openid
 pam-auth
 pipeline-build-step
